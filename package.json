@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Landing page for Natours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabeValdivia/outdoors-website.git"
+  },
+  "author": "Gabriel Valdivia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabeValdivia/outdoors-website/issues"
+  },
+  "homepage": "https://github.com/GabeValdivia/outdoors-website#readme",
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
